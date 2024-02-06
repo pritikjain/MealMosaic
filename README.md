@@ -19,9 +19,7 @@ This application build with MVVM Architecture based on the latest guild lines fr
 - Search the recipe based on categories
 - Add recipes into favorites section
 
-<p align="center">
-<img src='https://github.com/pritikjain/MealMosaic/blob/master/assets/app_architecture.png' />
-</p>
+<img src='/assets/app_architecture.png' title='MVVM-Architecture' width='' alt='MVVM-Architecture' />
 
 ## Video Walkthrough
 
