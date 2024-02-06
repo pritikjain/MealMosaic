@@ -15,11 +15,10 @@ This application build with MVVM Architecture based on the latest guild lines fr
 - **Instant search** for quick access to relevant categories of food
 - **Navigation** for smooth transitions between screens
 - **Coroutines** for asynchronous programming
-
 - Long-press to get the more info about the recipe 
 - Search the recipe based on categories
 - Add recipes into favorites section
-- 
+
 <p align="center">
 <img alt="mvvm-architecture"  src="https://github.com/pritikjain/MealMosaic/blob/master/assets/app_architecture.jpeg">
 </p>
