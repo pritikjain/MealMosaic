@@ -20,7 +20,7 @@ This application build with MVVM Architecture based on the latest guild lines fr
 - Add recipes into favorites section
 
 <p align="center">
-<img alt="mvvm-architecture"  src="https://github.com/pritikjain/MealMosaic/blob/master/assets/app_architecture.png">
+<img src='https://github.com/pritikjain/MealMosaic/blob/master/assets/app_architecture.png' />
 </p>
 
 ## Video Walkthrough
